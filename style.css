@@ -39,3 +39,11 @@ button:hover{
 #questions{
     min-width: fit-content;
 }
+
+.container{
+    display: flex;
+}
+
+#laundry{
+    align-items: center;
+}
